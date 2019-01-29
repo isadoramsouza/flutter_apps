@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculo_imc/calculo_imc.iml" filepath="$PROJECT_DIR$/calculo_imc/calculo_imc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" filepath="$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" />
+    </modules>
+  </component>
+</project>
