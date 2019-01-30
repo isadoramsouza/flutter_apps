@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculo_imc/build/app/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/calculo_imc/build/app/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador_pessoas/build/app/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/contador_pessoas/build/app/generated/source/buildConfig/buildConfig1.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculo_imc/calculo_imc.iml" filepath="$PROJECT_DIR$/calculo_imc/calculo_imc.iml" />
       <module fileurl="file://$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" filepath="$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversor_moedas/conversor_moedas.iml" filepath="$PROJECT_DIR$/conversor_moedas/conversor_moedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculo_imc/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/calculo_imc/android/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador_pessoas/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/contador_pessoas/android/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador_pessoas/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" filepath="$PROJECT_DIR$/contador_pessoas/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculo_imc/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources.iml" filepath="$PROJECT_DIR$/calculo_imc/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contador_pessoas/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources1.iml" filepath="$PROJECT_DIR$/contador_pessoas/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/processDebugResources1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
