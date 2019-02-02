@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/calculo_imc/calculo_imc.iml" filepath="$PROJECT_DIR$/calculo_imc/calculo_imc.iml" />
       <module fileurl="file://$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" filepath="$PROJECT_DIR$/contador_pessoas/contador_pessoas.iml" />
       <module fileurl="file://$PROJECT_DIR$/conversor_moedas/conversor_moedas.iml" filepath="$PROJECT_DIR$/conversor_moedas/conversor_moedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista_tarefas/lista_tarefas.iml" filepath="$PROJECT_DIR$/lista_tarefas/lista_tarefas.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculo_imc/android/app/src/main/main.iml" filepath="$PROJECT_DIR$/calculo_imc/android/app/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/contador_pessoas/android/app/src/main/main1.iml" filepath="$PROJECT_DIR$/contador_pessoas/android/app/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/contador_pessoas/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" filepath="$PROJECT_DIR$/contador_pessoas/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/merged.iml" />
