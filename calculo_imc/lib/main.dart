@@ -108,7 +108,7 @@ class _HomeState extends State<Home> {
                   child:  RaisedButton(
                     onPressed: (){
                       if(_formKey.currentState.validate()){
-                        _calculate();
+                        _calculate() ;
                       }
                     },
                     child: Text("Calcular", style: TextStyle(color: Colors.white, fontSize: 25.0),),

@@ -50,7 +50,7 @@ class _HomeState extends State<Home> {
                   padding: EdgeInsets.all(10.0),
                   child: FlatButton(
                     child: Text(
-                      "+1",
+                      "+1" ,
                       style: TextStyle(fontSize: 40.0, color: Colors.white),
                     ),
                     onPressed: () {
