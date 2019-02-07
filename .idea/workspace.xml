@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f24a34-0aa8-491e-814d-6d48318b4b8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lista_tarefas/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lista_tarefas/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lista_tarefas/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/lista_tarefas/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,41 +19,44 @@
     <session id="228223611">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.63" value="1" />
           <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="dart" value="25" />
+          <entry key="dart" value="29" />
           <entry key="yaml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dart" value="25" />
+          <entry key="Dart" value="29" />
           <entry key="YAML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="2924" />
-          <entry key="txt" value="183" />
+          <entry key="dart" value="3767" />
+          <entry key="txt" value="213" />
           <entry key="yaml" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="2924" />
-          <entry key="PLAIN_TEXT" value="183" />
+          <entry key="Dart" value="3767" />
+          <entry key="PLAIN_TEXT" value="213" />
           <entry key="YAML" value="31" />
         </counts>
       </usages-collector>
@@ -67,11 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lista_tarefas/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="437">
+              <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -90,6 +87,8 @@
       <find>center</find>
       <find>im</find>
       <find>formk</find>
+      <find>futureb</find>
+      <find>controller</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -124,6 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,13 +141,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549203622463" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549500385310" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace" />
@@ -168,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart (2)">
+  <component name="RunManager" selected="Flutter.main.dart (3)">
     <configuration name="main" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="main" />
       <option name="DEPLOY" value="true" />
@@ -229,6 +228,10 @@
       <option name="filePath" value="$PROJECT_DIR$/appscadiagro/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="main.dart (3)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lista_tarefas/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/calculo_imc/lib/main.dart" />
       <method v="2" />
@@ -239,9 +242,11 @@
       <item itemvalue="Android App.main1" />
       <item itemvalue="Flutter.main.dart (1)" />
       <item itemvalue="Flutter.main.dart (2)" />
+      <item itemvalue="Flutter.main.dart (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart (3)" />
         <item itemvalue="Flutter.main.dart (2)" />
         <item itemvalue="Flutter.main.dart (1)" />
       </list>
@@ -328,14 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1549141173265</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lendo e escrevendo dados json">
+      <created>1549203647195</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549203647195</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967213" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967213" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" sideWeight="0.5032787" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -346,7 +358,7 @@
       <window_info id="UI Designer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40491804" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1590164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,7 +395,8 @@
     <MESSAGE value="corrigindo" />
     <MESSAGE value="app lista de tarefas" />
     <MESSAGE value="commit final" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit final" />
+    <MESSAGE value="lendo e escrevendo dados json" />
+    <option name="LAST_COMMIT_MESSAGE" value="lendo e escrevendo dados json" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/untitled/lib/main.dart" />
@@ -419,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conversor_moedas/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="66" column="27" lean-forward="true" selection-start-line="66" selection-start-column="27" selection-end-line="66" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contador_pessoas/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -440,13 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculo_imc/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lista_tarefas/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-584">
@@ -454,13 +453,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calculo_imc/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conversor_moedas/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="25" column="49" selection-start-line="25" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lista_tarefas/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
         </state>
       </provider>
     </entry>

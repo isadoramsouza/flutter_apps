@@ -19,12 +19,79 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
 
-  List _todoList = [];
+  final _todoController = TextEditingController();
 
+  List _todoList =[];
+
+  void _addTodo(){
+    setState(() {
+      Map<String,dynamic> newTodo = Map();
+      newTodo["title"] = _todoController.text;
+      _todoController.text="";
+      newTodo["ok"]=false;
+      _todoList.add(newTodo);
+    });
+
+  }
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Lista de Tarefas"),
+        backgroundColor: Colors.lightBlue,
+        centerTitle: true,
+      ),
+      body: Column(
+        children: <Widget>[
+          Container(
+            padding: EdgeInsets.fromLTRB(17.0,1.0, 7.0, 1.0),
+            child: Row(
+              children: <Widget>[
+                Expanded(
+                  child: TextField(
+                    controller: _todoController,
+                    decoration: InputDecoration(
+                        labelText: "Nova Tarefa",
+                        labelStyle:  TextStyle(color: Colors.lightBlue)
+                    ),
+                  ),
+                ),
+                RaisedButton(
+                  color: Colors.lightBlue,
+                  child: Text("ADD"),
+                  textColor: Colors.white,
+                  onPressed: (){
+                    _addTodo();
+                  } ,
+                ),
+              ],
+            ),
+          ),
+          Expanded(
+            child: ListView.builder(
+              padding: EdgeInsets.only(top: 10.0),
+                itemCount: _todoList.length,
+                itemBuilder: (context, index) {
+                  return CheckboxListTile(
+                    title: Text(_todoList[index]["title"]),
+                    value: _todoList[index]["ok"],
+                    secondary: CircleAvatar(
+                      child:  Icon(_todoList[index]["ok"] ? Icons.check : Icons.error),
+                    ),
+                    onChanged: (c){
+                      setState(() {
+                        _todoList[index]["ok"]=c;
+                      });
+                    },
+
+                  );
+                },
+            ),
+          ),
+        ],
+      ),
+    );
   }
 
   Future<File> _getFile() async{
