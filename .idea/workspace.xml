@@ -49,15 +49,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="3878" />
-          <entry key="txt" value="240" />
+          <entry key="dart" value="4501" />
+          <entry key="txt" value="277" />
           <entry key="yaml" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="3878" />
-          <entry key="PLAIN_TEXT" value="240" />
+          <entry key="Dart" value="4501" />
+          <entry key="PLAIN_TEXT" value="277" />
           <entry key="YAML" value="31" />
         </counts>
       </usages-collector>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lista_tarefas/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="142">
+              <caret line="132" column="53" selection-start-line="132" selection-start-column="53" selection-end-line="132" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -149,7 +149,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549927311755" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549928735230" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/eclipse-workspace" />
@@ -351,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549500410994</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="salvando dados json">
+      <created>1549927547714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549927547714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -408,7 +415,8 @@
     <MESSAGE value="commit final" />
     <MESSAGE value="lendo e escrevendo dados json" />
     <MESSAGE value="adicionando itens na lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando itens na lista" />
+    <MESSAGE value="salvando dados json" />
+    <option name="LAST_COMMIT_MESSAGE" value="salvando dados json" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/untitled/lib/main.dart" />
@@ -481,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lista_tarefas/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="142">
+          <caret line="132" column="53" selection-start-line="132" selection-start-column="53" selection-end-line="132" selection-end-column="53" />
         </state>
       </provider>
     </entry>
